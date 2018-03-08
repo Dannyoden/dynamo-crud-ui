@@ -31,6 +31,7 @@ public class GiftView extends BaseView {
 
 		EntityModel<Gift> em = getModelFactory().getModel(Gift.class);
 		FormOptions fo = new FormOptions().setScreenMode(ScreenMode.HORIZONTAL);
+		fo.setShowRemoveButton(true);
 		ServiceBasedSplitLayout<Integer, Gift> layout = new ServiceBasedSplitLayout<Integer, Gift>(giftService, em, fo, null);
 		layout.setDetailJoins(new FetchJoinInformation[] { new FetchJoinInformation("logo") });
 		main.addComponent(layout);
