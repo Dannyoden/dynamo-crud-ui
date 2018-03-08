@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype-modules/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dynamo-camel" />
+        <module name="dynamo-core" />
+        <module name="dynamo-functional-domain" />
+        <module name="dynamo-jasperreports" />
+        <module name="dynamo-jasperreports-fixes" />
+        <module name="dynamo-jpa" />
+        <module name="dynamo-showcase" />
+        <module name="dynamo-spring" />
+        <module name="dynamo-spring-archetype" />
+        <module name="dynamo-spring-archetype-modules" />
+        <module name="dynamo-test" />
+        <module name="dynamo-vaadin" />
+        <module name="gts-core" />
+        <module name="gts-domain" />
+        <module name="gts-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dynamo-camel" target="1.7" />
+      <module name="dynamo-core" target="1.7" />
+      <module name="dynamo-functional-domain" target="1.7" />
+      <module name="dynamo-jasperreports" target="1.7" />
+      <module name="dynamo-jasperreports-fixes" target="1.7" />
+      <module name="dynamo-jpa" target="1.7" />
+      <module name="dynamo-parent" target="1.7" />
+      <module name="dynamo-showcase" target="1.7" />
+      <module name="dynamo-spring" target="1.7" />
+      <module name="dynamo-spring-archetype" target="1.7" />
+      <module name="dynamo-spring-archetype-modules" target="1.7" />
+      <module name="dynamo-test" target="1.7" />
+      <module name="dynamo-vaadin" target="1.7" />
+      <module name="gts-core" target="1.7" />
+      <module name="gts-domain" target="1.7" />
+      <module name="gts-parent" target="1.7" />
+      <module name="gts-ui" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

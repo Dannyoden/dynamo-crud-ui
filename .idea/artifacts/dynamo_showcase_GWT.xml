@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="dynamo-showcase:GWT">
+    <output-path>$PROJECT_DIR$/../dynamogts/dynamo/dynamo-showcase/target/classes/VAADIN/widgetsets</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="dynamo-showcase/gwt/GWT" />
+    </root>
+  </artifact>
+</component>

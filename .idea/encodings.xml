@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype-modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-camel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-functional-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jasperreports" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jasperreports-fixes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-showcase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-vaadin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gts-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gts-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gts-ui" charset="UTF-8" />
+  </component>
+</project>

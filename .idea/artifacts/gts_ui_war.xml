@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gts-ui:war">
+    <output-path>$PROJECT_DIR$/gts-ui/target</output-path>
+    <root id="archive" name="gts-ui.war">
+      <element id="artifact" artifact-name="gts-ui:war exploded" />
+    </root>
+  </artifact>
+</component>

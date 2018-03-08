@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mondrian:mondrian:3.1.1.12687">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mondrian/mondrian/3.1.1.12687/mondrian-3.1.1.12687.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mondrian/mondrian/3.1.1.12687/mondrian-3.1.1.12687-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/mondrian/mondrian/3.1.1.12687/mondrian-3.1.1.12687-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

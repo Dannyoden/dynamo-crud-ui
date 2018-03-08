@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-camel/dynamo-camel.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-camel/dynamo-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-core/dynamo-core.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-core/dynamo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-functional-domain/dynamo-functional-domain.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-functional-domain/dynamo-functional-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jasperreports/dynamo-jasperreports.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jasperreports/dynamo-jasperreports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jasperreports-fixes/dynamo-jasperreports-fixes.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jasperreports-fixes/dynamo-jasperreports-fixes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jpa/dynamo-jpa.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-jpa/dynamo-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-parent.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-showcase/dynamo-showcase.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-showcase/dynamo-showcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-spring/dynamo-spring.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-spring/dynamo-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype/dynamo-spring-archetype.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype/dynamo-spring-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype-modules/dynamo-spring-archetype-modules.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-archetype-modules/dynamo-spring-archetype-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-test/dynamo-test.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-test/dynamo-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-vaadin/dynamo-vaadin.iml" filepath="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-vaadin/dynamo-vaadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gts-core/gts-core.iml" filepath="$PROJECT_DIR$/gts-core/gts-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gts-domain/gts-domain.iml" filepath="$PROJECT_DIR$/gts-domain/gts-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gts-parent.iml" filepath="$PROJECT_DIR$/gts-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gts-ui/gts-ui.iml" filepath="$PROJECT_DIR$/gts-ui/gts-ui.iml" />
+    </modules>
+  </component>
+</project>

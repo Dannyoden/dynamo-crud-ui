@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dynamo-showcase:war">
+    <output-path>$PROJECT_DIR$/../dynamogts/dynamo/dynamo-showcase/target</output-path>
+    <root id="archive" name="dynamo-showcase-1.1-TRAINING.war">
+      <element id="artifact" artifact-name="dynamo-showcase:war exploded" />
+    </root>
+  </artifact>
+</component>
