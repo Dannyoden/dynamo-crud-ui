@@ -12,7 +12,9 @@ import com.vaadin.data.util.filter.SimpleStringFilter;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.spring.annotation.SpringView;
 import com.vaadin.spring.annotation.UIScope;
+import com.vaadin.ui.Button;
 import com.vaadin.ui.Layout;
+import com.vaadin.ui.Notification;
 import org.springframework.beans.factory.annotation.Autowired;
 import com.vaadin.data.util.filter.Like;
 
@@ -41,7 +43,30 @@ public class PersonView extends BaseView {
 		EntityModel<Person> em = getModelFactory().getModel(Person.class);
 		FormOptions fo = new FormOptions().setScreenMode(ScreenMode.HORIZONTAL);
 		fo.setShowRemoveButton(true).setShowQuickSearchField(true);
-		ServiceBasedSplitLayout<Integer, Person> layout = new ServiceBasedSplitLayout<Integer, Person>(personService, em, fo, null) {};
+		ServiceBasedSplitLayout<Integer, Person> layout = new ServiceBasedSplitLayout<Integer, Person>(personService, em, fo, null) {
+
+			private static final long serialVersionUID = -4747417585679227639L;
+
+			protected Container.Filter constructQuickSearchFilter(String value) {
+				return new Like("firstName", "%" + value + "%", false);
+			}
+
+			@Override
+			protected void postProcessButtonBar(Layout buttonBar) {
+				Button notificationButton = new Button("Show name");
+				registerButton(notificationButton);
+				notificationButton.addClickListener(new Button.ClickListener() {
+
+					@Override
+					public void buttonClick(Button.ClickEvent event) {
+						Notification.show(getSelectedItem().getFullName(), Notification.Type.ERROR_MESSAGE);
+
+					}
+				});
+				buttonBar.addComponent(notificationButton);
+			}
+
+		};
 		main.addComponent(layout);
 	}
 }

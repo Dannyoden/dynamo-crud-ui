@@ -7,10 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f61a30f-7ae7-4c30-af06-4bdcc6a8a938" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Delivery.java" afterPath="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Delivery.java" />
-      <change beforePath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/DeliveryView.java" afterPath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/DeliveryView.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java" afterPath="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java" />
       <change beforePath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java" afterPath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java" />
-      <change beforePath="$PROJECT_DIR$/gts-ui/src/main/resources/menu.properties" afterPath="$PROJECT_DIR$/gts-ui/src/main/resources/menu.properties" />
+      <change beforePath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java" afterPath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java" />
+      <change beforePath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java" afterPath="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java" />
     </list>
     <ignored path="$PROJECT_DIR$/gts-domain/target/" />
     <ignored path="$PROJECT_DIR$/gts-ui/target/" />
@@ -55,6 +56,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="OrganizationView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+              <folding>
+                <element signature="e#1438#1461#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Delivery.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Delivery.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,14 +81,18 @@
       <file leaf-file-name="PersonView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="285">
+              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding>
+                <element signature="e#1513#1530#0" expanded="true" />
+                <element signature="e#1983#2188#0" expanded="true" />
+                <element signature="e#2187#2188#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeliveryView.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DeliveryView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/DeliveryView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -87,41 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GiftLogo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/GiftLogo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GiftTranslation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/GiftTranslation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeliveryDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/dao/DeliveryDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/dao/PersonDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -151,7 +138,27 @@
         <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+              <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiftLayout.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/layout/GiftLayout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gift.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="58" column="38" lean-forward="true" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -172,18 +179,18 @@
       <list>
         <option value="$PROJECT_DIR$/gts-domain/src/main/resources/messages.properties" />
         <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/dao/impl/OrganizationDaoImpl.java" />
-        <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java" />
         <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/dao/impl/PersonDaoImpl.java" />
         <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Organization.java" />
         <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Person.java" />
         <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/GiftLogo.java" />
-        <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java" />
         <option value="$PROJECT_DIR$/../dynamogts/dynamo/dynamo-spring/src/test/java/com/ocs/dynamo/service/impl/BaseServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java" />
         <option value="$PROJECT_DIR$/gts-ui/src/main/resources/menu.properties" />
         <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Delivery.java" />
-        <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java" />
         <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/DeliveryView.java" />
+        <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java" />
+        <option value="$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java" />
+        <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java" />
+        <option value="$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java" />
       </list>
     </option>
   </component>
@@ -656,12 +663,12 @@
       <workItem from="1520408476094" duration="1873000" />
       <workItem from="1520416509788" duration="707000" />
       <workItem from="1520506018160" duration="2351000" />
-      <workItem from="1520509022348" duration="2252000" />
+      <workItem from="1520509022348" duration="6483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39408000" />
+    <option name="totallyTimeSpent" value="43639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="68" width="1440" height="873" extended-state="0" />
@@ -688,7 +695,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29338327" sideWeight="0.7659722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -833,13 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/layout/GiftLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../dynamogts/dynamo/dynamo-core/src/main/java/com/ocs/dynamo/domain/model/annotation/Attribute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -851,14 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,14 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GtsUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1111,28 +1095,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/DeliveryView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="32" column="67" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
           <folding>
             <element signature="e#1220#1239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gts-domain/src/main/java/com/ocs/gts/domain/Gift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="58" column="38" lean-forward="true" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/layout/GiftLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/GiftView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/PersonView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#1513#1530#0" expanded="true" />
+            <element signature="e#1983#2188#0" expanded="true" />
+            <element signature="e#2187#2188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gts-ui/src/main/java/com/ocs/gts/ui/OrganizationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+          <folding>
+            <element signature="e#1438#1461#0" expanded="true" />
           </folding>
         </state>
       </provider>
